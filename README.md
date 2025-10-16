@@ -20,7 +20,7 @@
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushikigupta)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaushiiki_gupta_)  
-[![Leetcode](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://leetcode.com/u/kaushikigupta11/)  
+[![Leetcode](https://img.shields.io/badge/Leetcode-5B4638?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kaushikigupta11/)  
 
 --- 
 
