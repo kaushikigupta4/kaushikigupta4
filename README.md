@@ -2,7 +2,7 @@
 
 **Full Stack Developer | MERN Stack Enthusiast | 2025 Grad | Building Scalable Magic**
 
-Typing SVG
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Enthusiast)
 
 [![GitHub followers](https://img.shields.io/github/followers/kaushikigupta?label=Follow&style=social)](https://github.com/kaushikigupta4)
 
@@ -51,5 +51,4 @@ Typing SVG
 
 📝 Exam Taking Website — Online testing platform with real-time scoring, analytics, and secure assessments
 
----
 
