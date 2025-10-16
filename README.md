@@ -2,7 +2,7 @@
 
 **Full Stack Developer | MERN Stack Enthusiast | 2025 Grad | Building Scalable Magic**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Frontend+Web+Developer;Backend+Web+Developer;Software+Developer)
 
 [![GitHub followers](https://img.shields.io/github/followers/kaushikigupta?label=Follow&style=social)](https://github.com/kaushikigupta4)
 
